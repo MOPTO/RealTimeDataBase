@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132338035825",
+    "firebase_url": "https://sometest-8feb6.firebaseio.com",
+    "project_id": "sometest-8feb6",
+    "storage_bucket": "sometest-8feb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132338035825:android:a325e8994b948fd1b3bfd0",
+        "android_client_info": {
+          "package_name": "com.chotagames.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132338035825-j4akird54bpm212ffi74epkb176cs83u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjjJe0lytq555YCNlsWAks6Djt5FApbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132338035825-j4akird54bpm212ffi74epkb176cs83u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
